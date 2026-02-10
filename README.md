@@ -1,5 +1,8 @@
 
-# Google Gemini Web Chat
+# Deprecated
+⚠️ This project was intended for the very beginning of Gemini, where there was no UI to use it. You could still reuse it for different projects, but it will no longer be  maintained.
+
+## Google Gemini Web Chat
 
 Experience the new Google AI Model 'Gemini' on any device. 
 This application is pure front-end, the API key and your name are stored in your browser and used to make requests, and all server connections are made directly to Google Servers.
